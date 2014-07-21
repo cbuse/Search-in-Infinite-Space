@@ -1,0 +1,14 @@
+Buse Elena-Cristina 321CA
+
+Felul in care procedeaza robotul pentru a aduna cutiile este urmatorul:
+
+Robotul se misca in spirala spre est(apoi sud, vest, nord) pana gaseste o cutie.
+
+Daca a gasit o cutie, o ridica si o aduce la baza mergand pana cand coordonata X devine 0,
+apoi pana cand coordonata Y devine 0. Nu este cel mai scurt drum, dar se incadreaza
+in numarul de miscari.
+
+Felul in care se parcurge spirala este foarte bine descris in comentarile din cod.
+
+Tema a fost interesanta ca mod de gandire si bine aleasa pentru a reliefa avantajele 
+ultilizarii limbajului Prolog.
